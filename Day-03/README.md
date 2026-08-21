@@ -12,3 +12,10 @@ This folder contains the final Job Descriptions created for ABC Technologies.
 3. QA Engineer
 
 Created on: 21 Aug 2026
+## Project Progress
+
+| Day | Deliverable |
+| --- | --- |
+| Day 1 | Project Introduction - [Doc](Day1-Project-Introduction.pdf) |
+| Day 2 | IT Recruitment Lifecycle Understanding |
+| Day 3 | Final Job Descriptions - [View](Day-03/JD-All-Roles.pdf) |
