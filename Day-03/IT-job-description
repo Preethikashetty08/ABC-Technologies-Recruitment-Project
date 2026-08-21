@@ -1,0 +1,126 @@
+# Day 3 - IT Job Descriptions
+**ABC Technologies - Recruitment Project**
+
+## About Us*
+ABC Technologies builds scalable enterprise software solutions for recruitment and talent management. We help companies streamline hiring with smart ATS, interview automation, and candidate analytics platforms. Join our engineering team to work on products that impact HR teams and job seekers across India and globally.
+
+## 1. Python Developer
+
+### Job Details
+| **Department** | Engineering / Software Development |
+| **Location** | Bangalore / Hybrid |
+| **Experience** | 2-5 years |
+| **Qualification** | B.E/B.Tech/MCA in Computer Science or related field |
+| **Salary Range** | ₹5 - 9 LPA CTC |
+| **Notice Period** | Immediate to 30 days |
+
+### Job Summary
+We are looking for a skilled **Python Developer** to build scalable backend services and APIs for our recruitment platform. You will work with Django/FastAPI, databases, and cloud services to deliver high-performance solutions.
+
+### Key Responsibilities
+- Develop and maintain RESTful APIs using Python, Django, Flask, or FastAPI
+- Design and optimize database schemas in PostgreSQL/MySQL/MongoDB
+- Integrate third-party APIs and build data processing pipelines
+- Write clean, testable, and well-documented code
+- Collaborate with frontend, QA, and DevOps teams in Agile environment
+- Ensure security, performance, and scalability of applications
+
+### Required Skills
+- **Languages**: Python 3.x, OOP, Data Structures
+- **Frameworks**: Django, Flask, FastAPI
+- **Database**: PostgreSQL, MySQL, MongoDB, SQLAlchemy, Django ORM
+- **Tools**: Git, Docker, Linux, Postman
+- **API**: REST, JSON, JWT Authentication
+
+### Good-to-Have Skills
+- AWS - EC2, S3, Lambda
+- Celery, Redis, Kafka
+- CI/CD: Jenkins, GitHub Actions
+- Unit Testing: Pytest, Unittest
+
+### Benefits
+- 🏥 Health Insurance + Wellness benefits
+- 📚 Learning & Certification support
+- 🏠 Flexible/Hybrid work options
+- 📈 Growth-oriented engineering culture
+
+## 2. Java Developer
+
+### Job Details
+| **Department** | Engineering / Software Development |
+| **Location** | Bangalore / Hybrid |
+| **Experience** | 3-6 years |
+| **Qualification** | B.E/B.Tech/MCA in Computer Science or related field |
+| **Salary Range** | ₹6 - 12 LPA CTC |
+| **Notice Period** | Immediate to 30 days |
+
+### Job Summary
+We are looking for a **Java Developer** to build enterprise-grade microservices for our recruitment suite using Spring Boot and modern Java frameworks.
+
+### Key Responsibilities
+- Develop backend services using Java 8+, Spring Boot, Spring MVC, Spring Security
+- Design RESTful APIs and microservices architecture
+- Work with MySQL, PostgreSQL, JPA/Hibernate
+- Write unit tests with JUnit and Mockito
+- Participate in code reviews and CI/CD pipelines
+
+### Required Skills
+- **Core Java**: OOP, Collections, Multithreading
+- **Frameworks**: Spring Boot, Spring MVC, Spring Data JPA, Spring Security
+- **Database**: MySQL, PostgreSQL, Hibernate
+- **Tools**: Git, Maven, Docker, Jenkins
+- **API**: REST, JSON, Swagger
+
+### Good-to-Have Skills
+- AWS Cloud
+- Kafka, RabbitMQ
+- Redis Caching
+- React/Angular basics
+
+### Benefits
+- 🏥 Health Insurance + Wellness benefits
+- 📚 Learning & Certification support
+- 🏠 Flexible/Hybrid work options
+- 📈 Growth-oriented engineering culture
+
+## 3. QA Engineer
+
+### Job Details
+| **Department** | Engineering / Quality Assurance |
+| **Location** | Bangalore / Hybrid |
+| **Experience** | 2-5 years |
+| **Qualification** | B.E/B.Tech/MCA in Computer Science or related field |
+| **Salary Range** | ₹4 - 7 LPA CTC |
+| **Notice Period** | Immediate to 30 days |
+
+### Job Summary
+We are looking for a **QA Engineer** to ensure quality delivery of our recruitment platform through manual and automated testing.
+
+### Key Responsibilities
+- Create and execute test plans, test cases, and test scripts
+- Perform functional, regression, API, and UI testing
+- Log and track defects in JIRA and coordinate with dev teams
+- Build automation frameworks using Selenium/Cypress
+- Validate APIs using Postman and REST Assured
+- Participate in Agile ceremonies and release cycles
+
+### Required Skills
+- **Testing**: Manual Testing, SDLC, STLC, Bug Life Cycle
+- **Automation**: Selenium with Java, Cypress
+- **API Testing**: Postman, REST Assured
+- **Tools**: JIRA, TestRail, Git, Jenkins
+- **Database**: Basic SQL for data validation
+
+### Good-to-Have Skills
+- Performance Testing: JMeter
+- Mobile Testing: Appium
+- CI/CD integration
+- Agile/Scrum experience
+
+### Benefits
+- 🏥 Health Insurance + Wellness benefits
+- 📚 Learning & Certification support
+- 🏠 Flexible/Hybrid work options
+- 📈 Growth-oriented engineering culture
+
+*ABC Technologies is an Equal Opportunity Employer.*
